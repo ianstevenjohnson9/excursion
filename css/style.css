@@ -16,3 +16,21 @@ h2 {
     font-size: 2.625;
     font-weight: 300;
 }
+p {
+    color: gray;
+    font-size: 1.3125;
+}
+.imageCamp {
+    height: 500px;
+    width: 700px;
+    padding: 10px;
+}
+.imagePhone {
+    padding: 20px;
+}
+footer {
+    text-align: right;
+}
+video {
+    border: 2px solid black;
+}
